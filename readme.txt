@@ -1,3 +1,3 @@
 printf('Hello world')
 echo "hello" mkdir
-ni hao ma
+ni hao ma haobuhao
