@@ -1,2 +1,2 @@
 printf('Hello world')
-echo "hello"
+echo "hello" mkdir
